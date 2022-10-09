@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm  Chutirat Suasombatpattana</h2>
+<h2 align="left">Hi 👋, I'm  Chutirat Suasombatpattana</h2><hr>
 <h3 align="left">:sparkles:I'm a 3rd year student of SIT, KMUTT in computer science faculty:sparkles:</h3>
 <img align="right" alt="Coding" width="350"src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
