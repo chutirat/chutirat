@@ -2,8 +2,6 @@
 <h3 align="left">:sparkles:I'm a 3rd year student of SIT, KMUTT in computer science faculty:sparkles:</h3>
 <img align="right" alt="Coding" width="350"src="https://digitalcreativemind.com/wp-content/uploads/2021/06/Analytics_amp_Data_Science.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chutirat&label=Profile%20views&color=0e75b6&style=flat" alt="chutirat" /> </p>
-
 - 👨‍💻 I’m interested in **Machine learning / AI**
 
 - 📝I’m currently learning **Data Science/ Data Analysis**
